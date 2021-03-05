@@ -8,3 +8,14 @@
     width: 85px;
     height: 85px;
 }
+
+.features{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.features li img{
+    width: 85px;
+    height: 85px;
+}
